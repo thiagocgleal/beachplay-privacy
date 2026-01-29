@@ -39,6 +39,7 @@ Usamos autenticação segura via OAuth, seguindo as políticas das plataformas.
 Os dados exibidos no app (como nome, e-mail e foto) são utilizados apenas para:
 - Identificação do usuário
 - Personalização da experiência
+- Salvamos os rankings
 
 Não vendemos nem compartilhamos seus dados com terceiros.
 
